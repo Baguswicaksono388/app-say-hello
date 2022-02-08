@@ -6,3 +6,7 @@
 - Unk mendownload versi terbaru, gunakan perintah : go get
 - Jika salah masukan versi di go.mod nya, otomatis akan gagal
 
+# Upgrade major upgrade
+- Merubah nama module nya, jika ada perubahan nama module. Sebelumnya adlh require github.com/Baguswicaksono388/go-say-hello di hapus.
+- jalankan perintah go get github.com/Baguswicaksono388/go-say-hello/v2
+
